@@ -1,0 +1,14 @@
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\1.2 Hello World\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
