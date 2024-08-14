@@ -1,0 +1,42 @@
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\bin\Debug\net8.0\DrawingShape.exe
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\bin\Debug\net8.0\DrawingShape.deps.json
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\bin\Debug\net8.0\DrawingShape.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\bin\Debug\net8.0\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\bin\Debug\net8.0\DrawingShape.pdb
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\refint\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.pdb
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\DrawingShape.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\3.2 Drawing Program - A Drawing Class\DrawingShape\obj\Debug\net8.0\ref\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\bin\Debug\net8.0\DrawingShape.exe
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\bin\Debug\net8.0\DrawingShape.deps.json
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\bin\Debug\net8.0\DrawingShape.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\bin\Debug\net8.0\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\bin\Debug\net8.0\DrawingShape.pdb
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\refint\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.pdb
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\DrawingShape.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\4.1P - Drawing Program - Multiple Shape Kinds\DrawingShape\obj\Debug\net8.0\ref\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\bin\Debug\net8.0\DrawingShape.exe
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\bin\Debug\net8.0\DrawingShape.deps.json
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\bin\Debug\net8.0\DrawingShape.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\bin\Debug\net8.0\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\bin\Debug\net8.0\DrawingShape.pdb
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\refint\DrawingShape.dll
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.pdb
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\DrawingShape.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\CustomProgram\DrawingShape\obj\Debug\net8.0\ref\DrawingShape.dll

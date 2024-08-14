@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CounterTask/1.0.0": {
+        "dependencies": {
+          "ColorCode": "1.0.1",
+          "iTextSharp": "5.5.13.4"
+        },
+        "runtime": {
+          "CounterTask.dll": {}
+        }
+      },
+      "BouncyCastle.Cryptography/2.4.0": {
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.0.33771"
+          }
+        }
+      },
+      "ColorCode/1.0.1": {
+        "runtime": {
+          "lib/ColorCode.dll": {
+            "assemblyVersion": "1.0.1.62759",
+            "fileVersion": "1.0.1.62759"
+          }
+        }
+      },
+      "iTextSharp/5.5.13.4": {
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.4.0"
+        },
+        "runtime": {
+          "lib/net461/itextsharp.dll": {
+            "assemblyVersion": "5.5.13.4",
+            "fileVersion": "5.5.13.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CounterTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle.Cryptography/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SwXsAV3sMvAU/Nn31pbjhWurYSjJ+/giI/0n6tCrYoupEK34iIHCuk3STAd9fx8yudM85KkLSVdn951vTng/vQ==",
+      "path": "bouncycastle.cryptography/2.4.0",
+      "hashPath": "bouncycastle.cryptography.2.4.0.nupkg.sha512"
+    },
+    "ColorCode/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JhhQ+fXkJlDZFPwZd2dbuZgzpIo3VSrDpQ2mg5T9csl+ONwJnwofX6G0sZkIpFuEjWE0JKRGX0tA41CfuolOpw==",
+      "path": "colorcode/1.0.1",
+      "hashPath": "colorcode.1.0.1.nupkg.sha512"
+    },
+    "iTextSharp/5.5.13.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/cvCNv8AJ+XuD99u4NfHSSxkBJKTdvP36wcfQF9V1Cjzi1ycyFSa4vJ64a3DhFVUTKVO60WF8OmAqngQDTHgYA==",
+      "path": "itextsharp/5.5.13.4",
+      "hashPath": "itextsharp.5.5.13.4.nupkg.sha512"
+    }
+  }
+}

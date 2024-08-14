@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemTest", "SemTest\SemTest.csproj", "{48610771-B325-45E3-8A80-9DA1812C55D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48610771-B325-45E3-8A80-9DA1812C55D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48610771-B325-45E3-8A80-9DA1812C55D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48610771-B325-45E3-8A80-9DA1812C55D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48610771-B325-45E3-8A80-9DA1812C55D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1454CAD7-4AB4-49C3-AD6B-4B1003A31DA9}
+	EndGlobalSection
+EndGlobal

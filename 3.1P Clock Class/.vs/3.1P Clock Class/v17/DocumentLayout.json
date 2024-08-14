@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clockapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|solutionrelative:clockapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB43ECCF-F615-4E6B-9CC5-DF2EEF7DBEB9}|ClockTest\\ClockTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clocktest\\clocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB43ECCF-F615-4E6B-9CC5-DF2EEF7DBEB9}|ClockTest\\ClockTest.csproj|solutionrelative:clocktest\\clocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB43ECCF-F615-4E6B-9CC5-DF2EEF7DBEB9}|ClockTest\\ClockTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clocktest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB43ECCF-F615-4E6B-9CC5-DF2EEF7DBEB9}|ClockTest\\ClockTest.csproj|solutionrelative:clocktest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB43ECCF-F615-4E6B-9CC5-DF2EEF7DBEB9}|ClockTest\\ClockTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clocktest\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB43ECCF-F615-4E6B-9CC5-DF2EEF7DBEB9}|ClockTest\\ClockTest.csproj|solutionrelative:clocktest\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clockapplication\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|solutionrelative:clockapplication\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clockapplication\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|solutionrelative:clockapplication\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|d:\\workspace\\cos20007\\cos20007-working\\3.1p clock class\\clockapplication\\clockapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D306112D-D1E6-4242-9491-3CD170EF3BFA}|ClockApplication\\ClockApplication.csproj|solutionrelative:clockapplication\\clockapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CounterTest.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockTest\\CounterTest.cs",
+              "RelativeDocumentMoniker": "ClockTest\\CounterTest.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockTest\\CounterTest.cs",
+              "RelativeToolTip": "ClockTest\\CounterTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:57:52.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClockTest.csproj",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockTest\\ClockTest.csproj",
+              "RelativeDocumentMoniker": "ClockTest\\ClockTest.csproj",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockTest\\ClockTest.csproj",
+              "RelativeToolTip": "ClockTest\\ClockTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T08:57:45.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockTest\\ClockTest.cs",
+              "RelativeDocumentMoniker": "ClockTest\\ClockTest.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockTest\\ClockTest.cs",
+              "RelativeToolTip": "ClockTest\\ClockTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:57:42.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\Counter.cs",
+              "RelativeDocumentMoniker": "ClockApplication\\Counter.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\Counter.cs",
+              "RelativeToolTip": "ClockApplication\\Counter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:31:01.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\Clock.cs",
+              "RelativeDocumentMoniker": "ClockApplication\\Clock.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\Clock.cs",
+              "RelativeToolTip": "ClockApplication\\Clock.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:30:24.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClockApplication.csproj",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\ClockApplication.csproj",
+              "RelativeDocumentMoniker": "ClockApplication\\ClockApplication.csproj",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\ClockApplication.csproj",
+              "RelativeToolTip": "ClockApplication\\ClockApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T08:29:20.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ClockApplication\\Program.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\3.1P Clock Class\\ClockApplication\\Program.cs",
+              "RelativeToolTip": "ClockApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:29:15.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

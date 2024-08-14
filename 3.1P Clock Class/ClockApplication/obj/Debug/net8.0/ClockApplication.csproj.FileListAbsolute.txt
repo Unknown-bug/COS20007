@@ -1,0 +1,14 @@
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\bin\Debug\net8.0\ClockApplication.exe
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\bin\Debug\net8.0\ClockApplication.deps.json
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\bin\Debug\net8.0\ClockApplication.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\bin\Debug\net8.0\ClockApplication.dll
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\bin\Debug\net8.0\ClockApplication.pdb
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.dll
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\refint\ClockApplication.dll
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.pdb
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ClockApplication.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\3.1P Clock Class\ClockApplication\obj\Debug\net8.0\ref\ClockApplication.dll

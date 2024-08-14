@@ -1,0 +1,4 @@
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache

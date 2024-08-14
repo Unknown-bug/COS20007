@@ -1,0 +1,14 @@
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\bin\Debug\net8.0\SemTest.exe
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\bin\Debug\net8.0\SemTest.deps.json
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\bin\Debug\net8.0\SemTest.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\bin\Debug\net8.0\SemTest.dll
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\bin\Debug\net8.0\SemTest.pdb
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.dll
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\refint\SemTest.dll
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.pdb
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\SemTest.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\SemTest\SemTest\obj\Debug\net8.0\ref\SemTest.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\semtest\\semtest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|solutionrelative:semtest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\semtest\\semtest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|solutionrelative:semtest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\semtest\\semtest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|solutionrelative:semtest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\semtest\\semtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|solutionrelative:semtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|d:\\workspace\\cos20007\\cos20007-working\\semtest\\semtest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48610771-B325-45E3-8A80-9DA1812C55D9}|SemTest\\SemTest.csproj|solutionrelative:semtest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\FileSystem.cs",
+              "RelativeDocumentMoniker": "SemTest\\FileSystem.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\FileSystem.cs",
+              "RelativeToolTip": "SemTest\\FileSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:30:21.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\Folder.cs",
+              "RelativeDocumentMoniker": "SemTest\\Folder.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\Folder.cs",
+              "RelativeToolTip": "SemTest\\Folder.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:26:46.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\File.cs",
+              "RelativeDocumentMoniker": "SemTest\\File.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\File.cs",
+              "RelativeToolTip": "SemTest\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:23:19.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\Thing.cs",
+              "RelativeDocumentMoniker": "SemTest\\Thing.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\Thing.cs",
+              "RelativeToolTip": "SemTest\\Thing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:19:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\Program.cs",
+              "RelativeDocumentMoniker": "SemTest\\Program.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\SemTest\\SemTest\\Program.cs",
+              "RelativeToolTip": "SemTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:18:49.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

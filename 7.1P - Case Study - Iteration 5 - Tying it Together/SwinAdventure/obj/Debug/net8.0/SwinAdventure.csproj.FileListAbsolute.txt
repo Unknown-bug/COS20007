@@ -1,0 +1,84 @@
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\2.4.3 Identifiable Object\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\2.4 Identifiable Object\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\Players, Items, and Inventory\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\bag\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\looking\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\Console Application\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll

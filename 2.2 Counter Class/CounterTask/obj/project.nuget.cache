@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAlwIY+cZMWouxkoJ1iLFSt+u3mQL9iXb3hdOuIsmZzqyyx5KKL8mMowMgTKe/PaRMJ2jbji36qX1nBnfKeqnQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\CounterTask\\CounterTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\colorcode\\1.0.1\\colorcode.1.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ColorCode 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ColorCode",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

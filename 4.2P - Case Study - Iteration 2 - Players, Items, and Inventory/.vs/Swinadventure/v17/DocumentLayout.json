@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83C8766B-5B8F-42C8-94F4-8E32D140D4CD}|IdentifiableObjectTest\\Test.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\identifiableobjecttest\\itemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C8766B-5B8F-42C8-94F4-8E32D140D4CD}|IdentifiableObjectTest\\Test.csproj|solutionrelative:identifiableobjecttest\\itemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C8766B-5B8F-42C8-94F4-8E32D140D4CD}|IdentifiableObjectTest\\Test.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\identifiableobjecttest\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C8766B-5B8F-42C8-94F4-8E32D140D4CD}|IdentifiableObjectTest\\Test.csproj|solutionrelative:identifiableobjecttest\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C8766B-5B8F-42C8-94F4-8E32D140D4CD}|IdentifiableObjectTest\\Test.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\identifiableobjecttest\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C8766B-5B8F-42C8-94F4-8E32D140D4CD}|IdentifiableObjectTest\\Test.csproj|solutionrelative:identifiableobjecttest\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|d:\\workspace\\cos20007\\cos20007-working\\4.2p - case study - iteration 2 - players, items, and inventory\\swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DEF5E8-C9A8-470C-9102-59AFEC607295}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemTest.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\IdentifiableObjectTest\\ItemTest.cs",
+              "RelativeDocumentMoniker": "IdentifiableObjectTest\\ItemTest.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\IdentifiableObjectTest\\ItemTest.cs",
+              "RelativeToolTip": "IdentifiableObjectTest\\ItemTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:34:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerTest.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\IdentifiableObjectTest\\PlayerTest.cs",
+              "RelativeDocumentMoniker": "IdentifiableObjectTest\\PlayerTest.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\IdentifiableObjectTest\\PlayerTest.cs",
+              "RelativeToolTip": "IdentifiableObjectTest\\PlayerTest.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:34:17.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\Inventory.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\Inventory.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\Inventory.cs",
+              "RelativeToolTip": "SwinAdventure\\Inventory.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:32:56.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\GameObject.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\GameObject.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\GameObject.cs",
+              "RelativeToolTip": "SwinAdventure\\GameObject.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:41:29.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryTest.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\IdentifiableObjectTest\\InventoryTest.cs",
+              "RelativeDocumentMoniker": "IdentifiableObjectTest\\InventoryTest.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\IdentifiableObjectTest\\InventoryTest.cs",
+              "RelativeToolTip": "IdentifiableObjectTest\\InventoryTest.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwFgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:35:13.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\Player.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\Player.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\Player.cs",
+              "RelativeToolTip": "SwinAdventure\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:43:25.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\Item.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\Item.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\4.2P - Case Study - Iteration 2 - Players, Items, and Inventory\\SwinAdventure\\Item.cs",
+              "RelativeToolTip": "SwinAdventure\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:42:11.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

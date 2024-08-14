@@ -1,0 +1,33 @@
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\bin\Debug\net8.0\CounterTask.exe
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\bin\Debug\net8.0\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\2.1\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\CounterTask.exe
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\ColorCode.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\bin\Debug\net8.0\itextsharp.dll
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterTask.csproj.AssemblyReference.cache
+D:\workspace\COS20007\COS20007-working\2.2 Counter Class\CounterTask\obj\Debug\net8.0\CounterT.2C46CCCF.Up2Date

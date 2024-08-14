@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49364B86-D776-4C34-A5D4-261FB861A411}|CounterTask\\CounterTask.csproj|d:\\workspace\\cos20007\\cos20007-working\\2.2 counter class\\countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49364B86-D776-4C34-A5D4-261FB861A411}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49364B86-D776-4C34-A5D4-261FB861A411}|CounterTask\\CounterTask.csproj|d:\\workspace\\cos20007\\cos20007-working\\2.2 counter class\\countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49364B86-D776-4C34-A5D4-261FB861A411}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC8E101-6A73-4497-8230-544379E2DDC0}|test\\test.csproj|d:\\workspace\\cos20007\\cos20007-working\\2.2 counter class\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC8E101-6A73-4497-8230-544379E2DDC0}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1083C1-D531-45E8-81C8-56D2857BA10B}|convert\\convert.csproj|d:\\workspace\\cos20007\\cos20007-working\\2.2 counter class\\convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1083C1-D531-45E8-81C8-56D2857BA10B}|convert\\convert.csproj|solutionrelative:convert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1083C1-D531-45E8-81C8-56D2857BA10B}|convert\\convert.csproj|d:\\workspace\\cos20007\\cos20007-working\\2.2 counter class\\convert\\convert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D1083C1-D531-45E8-81C8-56D2857BA10B}|convert\\convert.csproj|solutionrelative:convert\\convert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC8E101-6A73-4497-8230-544379E2DDC0}|test\\test.csproj|d:\\workspace\\cos20007\\cos20007-working\\2.2 counter class\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDC8E101-6A73-4497-8230-544379E2DDC0}|test\\test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "convert.csproj",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\convert\\convert.csproj",
+              "RelativeDocumentMoniker": "convert\\convert.csproj",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\convert\\convert.csproj",
+              "RelativeToolTip": "convert\\convert.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T15:52:26.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\convert\\Program.cs",
+              "RelativeDocumentMoniker": "convert\\Program.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\convert\\Program.cs",
+              "RelativeToolTip": "convert\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:52:08.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.csproj",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\test\\test.csproj",
+              "RelativeDocumentMoniker": "test\\test.csproj",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\test\\test.csproj",
+              "RelativeToolTip": "test\\test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T15:51:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:12:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\CounterTask\\Counter.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Counter.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\CounterTask\\Counter.cs",
+              "RelativeToolTip": "CounterTask\\Counter.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:21:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\CounterTask\\Program.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Program.cs",
+              "ToolTip": "D:\\workspace\\COS20007\\COS20007-working\\2.2 Counter Class\\CounterTask\\Program.cs",
+              "RelativeToolTip": "CounterTask\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:20:52.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
